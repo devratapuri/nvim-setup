@@ -17,6 +17,7 @@
   set smartindent
   set noerrorbells
   set expandtab
+  set confirm " confirm before exit
   highlight colorcolumn guibg=lightgrey
 
   inoremap jk <ESC>
