@@ -5,7 +5,7 @@ several plugins are used in it to make your neovim comfortable<br/>
 ## prereuisits
 -------------------------------------------------------------
 * there should be neovim installed in your system 
-(for installing neovim[Github](https://github.com/neovim/neovim))
+(for installing [neovim](https://github.com/neovim/neovim))
 * you should have some basic knowledge of terminal  
 -----------------------------------------------------------------
 
