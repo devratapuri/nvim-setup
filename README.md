@@ -23,11 +23,11 @@ cd ./.config/nvim
   ``` 
    nvim ~/.bashrc
    ```
-   2. insert following command in ~/.bashrc ( for macOS write same command in ~/.zshrc)
-    ``` 
-    alias vim='nvim'
+   2. insert following command in ~/.bashrc ( for macOS write same command in ~/.zshrc)<br/>
+   ``` 
+     alias vim='nvim'
     export EDITOR='nvim'
-    ```
+   ```
 ------------------------------------------------
 ## How to become a contributor and submit your own code
 
