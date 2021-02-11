@@ -37,4 +37,11 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request .
+-----------------------------------------------------------------------
+## How to create custom init.vim file
+1. Read about differnt commands in [vim_comands](https://github.com/devratapuri/nvim-setup/blob/main/plugins/default_vim_command.md)
+2. Read about differnt plufins in [plugins](https://github.com/devratapuri/nvim-setup/tree/main/plugins)
+3. Use those that you like and combine them in your init.vim file .
+4. your custom configration are ready .
+5. you can always add your custom config and become a contributor 
