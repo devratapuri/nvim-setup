@@ -19,16 +19,15 @@ cd ./.config/nvim
 -------------------------------------------------------------
 ## tricks
 #### for replacing vim with nvim 
-    1. type this command in terminal to open file (you should be in your root directory)
+   1. type this command in terminal to open file (you should be in your root directory)
   ``` 
    nvim ~/.bashrc
    ```
-    2. insert following command in ~/.bashrc
+   2. insert following command in ~/.bashrc ( for macOS write same command in ~/.zshrc)
     ``` 
     alias vim='nvim'
     export EDITOR='nvim'
     ```
-for macOS write same command in ~/.zshrc
 ------------------------------------------------
 ## How to become a contributor and submit your own code
 
