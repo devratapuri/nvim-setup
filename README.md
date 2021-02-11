@@ -1,6 +1,6 @@
 # nvim-setup
 It is a sample of init.vim file . <br/>
-several plugins are used in it to make your neovim comfortable<br/> 
+A collection of different neovim setup <br/> 
 ----------------------------------------------------
 ##  Prerequisite
 
