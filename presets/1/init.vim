@@ -40,10 +40,9 @@ Plug 'maxmellon/vim-jsx-pretty'                         " Pretty JSX
 Plug 'jparise/vim-graphql'                              " GraphQL Syntax Highlighting with Vim
 Plug 'pantharshit00/vim-prisma'                         " Prisma Syntax Highlighting and Autocomplete
 
-
-" Plug 'HerringtonDarkholme/yats.vim'                   " Syntax Highlighting for TypeScript
-" Plug 'leafgarland/typescript-vim'                     " TypeScript settings 
-" Plug 'yuezk/vim-js'                                   " Syntax Highlighting 
+ 
+ Plug 'yuezk/vim-js'                                   " Syntax Highlighting 
+ call plug#end()
  set nocompatible 		" be iMproved, required
   filetype off                  " required
   call plug#begin('~/.config/nvim/plugged')
@@ -81,7 +80,8 @@ function! SyncTree()
     NERDTreeFind
     wincmd p
   endif
-endfunctio set nocompatible 		" be iMproved, required
+endfunction
+set nocompatible 		" be iMproved, required
   filetype off                  " required
   call plug#begin('~/.config/nvim/plugged')
   Plug 'morhetz/gruvbox'
